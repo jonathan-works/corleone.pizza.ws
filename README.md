@@ -13,7 +13,7 @@
 
 ### Preparing the setup ###
 
-* Faça o donwload do script do banco
+* Download the bank script
 
 > [Database script](https://drive.google.com/file/d/1CueIqUimDL9WbKdSAkjUbYGuNfMfIUiJ/view?usp=sharing)
 
