@@ -18,6 +18,9 @@
 > [Database script](https://drive.google.com/file/d/1CueIqUimDL9WbKdSAkjUbYGuNfMfIUiJ/view?usp=sharing)
 
 * Run Script on an instance of MySQL
+
+* Change the connection parameters in the configuration file "~/persistence.xml"
+
 ```
 * Change the connection parameters in the configuration file "~/persistence.xml"
 ```
