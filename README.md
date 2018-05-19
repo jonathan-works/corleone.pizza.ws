@@ -18,13 +18,12 @@
 > [Database script](https://drive.google.com/file/d/1CueIqUimDL9WbKdSAkjUbYGuNfMfIUiJ/view?usp=sharing)
 
 * Run Script on an instance of MySQL
+
 * Change the connection parameters in the configuration file "~/persistence.xml"
 
-name="javax.persistence.jdbc.url" value=" jdbc:mysql:/ <Bank Address> " 
+name="javax.persistence.jdbc.url" value=" jdbc:mysql: <Bank Address> " 
 ```
 name="javax.persistence.jdbc.user" value=" <Bank User name> "
-```
-name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"
 ```
 name="javax.persistence.jdbc.password" value=" <Bank Password> "
 ```
