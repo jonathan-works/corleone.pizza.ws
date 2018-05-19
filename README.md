@@ -20,13 +20,13 @@
 * Run Script on an instance of MySQL
 * Change the connection parameters in the configuration file "~/persistence.xml"
 
-<property name="javax.persistence.jdbc.url" value="jdbc:mysql:/ **<Bank Address>** :3306/corleone-pizza?zeroDateTimeBehavior=convertToNull"/>
+name="javax.persistence.jdbc.url" value=" jdbc:mysql:/ **<Bank Address>** " 
 ```
-<property name="javax.persistence.jdbc.user" value="**<Bank User name>**"/>
+name="javax.persistence.jdbc.user" value=" **<Bank User name>** "
 ```
-<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"
 ```
-<property name="javax.persistence.jdbc.password" value="**<Bank Password>**"/>
+name="javax.persistence.jdbc.password" value=" **<Bank Password>** "
 ```
 
 
